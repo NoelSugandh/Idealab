@@ -24,6 +24,8 @@ git merge --abort    --- aborts the merging
 git add -A  --- for selecting all files in the folder
 
 
+Here are the changes to the file.
+
 Git Revert
 Git Reset
 Git Amend
