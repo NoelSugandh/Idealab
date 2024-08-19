@@ -1,5 +1,12 @@
 git clone https://github.com/NoelSugandh/Idelab.git   ---to clone the repos
 cd repos_name
+
+git config --global user.name "John Doe"        
+git config --global user.email johndoe@example.com      ---- global commands to give user deatils, so that they know who's doing the changes.
+
+
+
+
 git add file_name    --- to add the file to repos
 git commit or git commit -m"customized message"    --- to add the changes
 git push origin main or any other branch_name    --- to upload it into the github
